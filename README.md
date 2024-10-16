@@ -8,7 +8,7 @@ recognition based on knowledge distillation. We introduce label embedding-frame
 feature cross-attention transformer and supervised contrastive learning to learn
 a better label-guided teacher network,which can better integrate the label embedding with the frame feature.
 
-<img src='imgs/image1.png'>
+<img src='imgs/img1.png'>
 
 
 ## Citation
