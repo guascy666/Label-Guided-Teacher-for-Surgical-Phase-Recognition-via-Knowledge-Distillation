@@ -1,7 +1,7 @@
 # Label-Guided-Teacher-for-Surgical-Phase-Recognition-via-Knowledge-Distillation
 
 ## Introduction
-The Pytorch implementation for our paper '[Label-Guided-Teacher-for-Surgical-Phase-Recognition-via-Knowledge-Distillation]', accepted at International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI2024).
+The Pytorch implementation for our paper 'Label-Guided-Teacher-for-Surgical-Phase-Recognition-via-Knowledge-Distillation', accepted at International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI2024).
 
 In this work, we propose a novel label-guided teacher network for surgical phase
 recognition based on knowledge distillation. We introduce label embedding-frame
